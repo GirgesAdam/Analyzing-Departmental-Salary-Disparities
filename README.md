@@ -1,7 +1,5 @@
-analyzed salary disparities across various departments to identify key trends and insights. Using advanced data analysis techniques in SQL, I performed the following tasks:
-Data Collection & Cleaning: Gathered and cleaned salary data from multiple departments to ensure accuracy and consistency.
-Statistical Analysis: Calculated standard deviations, average salaries and coefficients of variation for each department to understand salary distributions.
-Outlier Detection: Identified outliers based on Z-scores to highlight employees with salaries significantly above or below the average.
-Visualization: Created comprehensive charts to visually represent the average salary and the number of employees with salaries above and below the average within each department and represent CV & outliers in interpretable chart
-Key Insights: Highlighted departments with significant salary disparities and unbalanced distributionsanalyzed salary disparities across various departments to identify key trends and insights. Using advanced data analysis techniques in SQL, I performed the following tasks: Data Collection & Cleaning: Gathered and cleaned salary data from multiple departments to ensure accuracy and consistency. Statistical Analysis: Calculated standard deviations, average salaries and coefficients of variation for each department to understand salary distributions. Outlier Detection: Identified outliers based on Z-scores to highlight employees with salaries significantly above or below the average. Visualization: Created comprehensive charts to visually represent the average salary and the number of employees with salaries above and below the average within each department and represent CV & outliers in interpretable chart Key Insights: Highlighted departments with significant salary disparities and unbalanced distributions
-Skills: Microsoft PowerPoint · Statistical Data Analysis · Microsoft SQL Server
+Conducted comprehensive salary analysis across multiple departments using SQL for statistical computations, identifying disparities and outliers.
+
+Created visualizations in PowerPoint to effectively communicate findings, highlighting salary trends and discrepancies.
+
+Key insights included identifying departments with significant salary anomalies and providing recommendations for equitable salary distribution
